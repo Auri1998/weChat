@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PYquan</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_register">register</string>
+    <string name="title_activity_publish_info">publishInfo</string>
+    <string name="title_activity_read_py">readPY</string>
+    <string name="title_activity_sign_in">Sign_in</string>
+</resources>
